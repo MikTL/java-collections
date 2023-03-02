@@ -57,9 +57,5 @@ public class CollectionAndStreamsMoreMethods {
         System.out.println("duracion Stream "+durationS);
         // En este caso demora es mas rapido el Stream porque hay pocos datos que procesar, pero con grandes
         // cantidades es mas eficiente el ParallelStream
-
-        cursos.stream().any
-
-
     }
 }
