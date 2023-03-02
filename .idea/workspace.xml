@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="311307e4-37bd-4a7b-a99a-13203c090b95" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/v/practice/Arrays/CollectionAndStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v/practice/Arrays/CollectionAndStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v/practice/Arrays/CollectionAndStreamsMoreMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +45,13 @@
       <recent name="v.practice.Arrays.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectionAndStreams">
-    <configuration name="ArraysObjetosCursos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v.practice.Arrays.ArraysObjetosCursos" />
+  <component name="RunManager" selected="Application.CollectionAndStreamsMoreMethods">
+    <configuration name="CollectionAndStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v.practice.Arrays.CollectionAndStreams" />
       <module name="collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="v.practice.Arrays.model.*" />
+          <option name="PATTERN" value="v.practice.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionAndStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v.practice.Arrays.CollectionAndStreams" />
+    <configuration name="CollectionAndStreamsMoreMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v.practice.Arrays.CollectionAndStreamsMoreMethods" />
       <module name="collection" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionAndStreamsMoreMethods" />
         <item itemvalue="Application.CollectionAndStreams" />
         <item itemvalue="Application.UnaClassListDentroDeOtraClase2" />
         <item itemvalue="Application.UnaClassListDentroDeOtraClase" />
         <item itemvalue="Application.MetodosArraysObjetos" />
-        <item itemvalue="Application.ArraysObjetosCursos" />
       </list>
     </recent_temporary>
   </component>
