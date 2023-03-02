@@ -19,12 +19,6 @@ public class CollectionAndStreams {
         cursos.add(curso2);
         cursos.add(curso3);
         cursos.add(curso4);
-        System.out.println( cursos);
-        cursos.sort(Comparator.comparing(Curso::getNombre));
-        System.out.println(cursos);
-        Collections.sort(cursos, Comparator.comparing(Curso::getTiempo));
-        System.out.println(cursos);
-
         int tiempo=0;
         for (Curso curso : cursos) {
             tiempo += curso.getTiempo();
@@ -49,7 +43,7 @@ public class CollectionAndStreams {
         System.out.println("La suma sin el curso de programación es: "+
                 cursos.stream().filter(curso -> !curso.getNombre().equalsIgnoreCase("Programación"))
                         .mapToInt(Curso::getTiempo).sum());
-        
+
         List<Curso> nuevaListaCursos = cursos.stream().filter(curso -> !curso.getNombre().equalsIgnoreCase("Ruby")).sorted(Comparator.comparing(Curso::getTiempo).reversed()).toList();
         System.out.println("****************");
         System.out.println(nuevaListaCursos);
