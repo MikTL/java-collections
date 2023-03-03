@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="311307e4-37bd-4a7b-a99a-13203c090b95" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/v/practice/Arrays/MapAlumnos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v/practice/Arrays/MapAlumnos2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v/practice/Arrays/model/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v/practice/Arrays/model/Curso.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +48,7 @@
       <recent name="v.practice.Arrays.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IteratorAlumnos">
+  <component name="RunManager" selected="Application.MapAlumnos2">
     <configuration name="EqualsHashCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="v.practice.Arrays.EqualsHashCode" />
       <module name="collection" />
@@ -72,32 +75,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v.practice.Arrays.InterfaceSet" />
-      <module name="collection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="v.practice.Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InterfaceSet2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v.practice.Arrays.InterfaceSet2" />
-      <module name="collection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="v.practice.Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="IteratorAlumnos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="v.practice.Arrays.IteratorAlumnos" />
       <module name="collection" />
@@ -111,13 +88,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MapAlumnos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v.practice.Arrays.MapAlumnos" />
+      <module name="collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v.practice.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapAlumnos2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v.practice.Arrays.MapAlumnos2" />
+      <module name="collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v.practice.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapAlumnos2" />
+        <item itemvalue="Application.MapAlumnos" />
         <item itemvalue="Application.IteratorAlumnos" />
         <item itemvalue="Application.EqualsHashCode2" />
         <item itemvalue="Application.EqualsHashCode" />
-        <item itemvalue="Application.InterfaceSet2" />
-        <item itemvalue="Application.InterfaceSet" />
       </list>
     </recent_temporary>
   </component>
