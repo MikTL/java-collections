@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="311307e4-37bd-4a7b-a99a-13203c090b95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/v/practice/Arrays/EqualsHashCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v/practice/Arrays/model/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v/practice/Arrays/EqualsHashCode2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v/practice/Arrays/model/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v/practice/Arrays/model/Curso.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,24 +43,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="v.practice.Arrays.model" />
       <recent name="v.practice.Arrays" />
+      <recent name="v.practice.Arrays.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EqualsHashCode">
-    <configuration name="CollectionAndStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v.practice.Arrays.CollectionAndStreams" />
-      <module name="collection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="v.practice.Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EqualsHashCode2">
     <configuration name="CollectionAndStreamsMoreMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="v.practice.Arrays.CollectionAndStreamsMoreMethods" />
       <module name="collection" />
@@ -76,6 +63,19 @@
     </configuration>
     <configuration name="EqualsHashCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="v.practice.Arrays.EqualsHashCode" />
+      <module name="collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v.practice.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EqualsHashCode2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v.practice.Arrays.EqualsHashCode2" />
       <module name="collection" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EqualsHashCode2" />
         <item itemvalue="Application.EqualsHashCode" />
         <item itemvalue="Application.InterfaceSet2" />
         <item itemvalue="Application.InterfaceSet" />
         <item itemvalue="Application.CollectionAndStreamsMoreMethods" />
-        <item itemvalue="Application.CollectionAndStreams" />
       </list>
     </recent_temporary>
   </component>
